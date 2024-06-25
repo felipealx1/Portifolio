@@ -1,4 +1,4 @@
-# Portifolio
+# Portifolio.
 <h1 align="center">
   💻<br>Portfólio - José Felipe
 </h1>
