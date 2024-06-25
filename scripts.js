@@ -5,3 +5,7 @@ window.addEventListener('scroll', ()=> {
         header.style.background = 'transparent'
       }
 })
+
+function abrirPDF() {
+  window.open('CURRÍCULO JOSÉ FELIPE.pdf', '_blank');
+}
